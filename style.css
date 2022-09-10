@@ -144,6 +144,9 @@ p {
     background-color: white;
 }
 
+.desktop-2 .switch {
+    background-color: #051923;
+}
 .dark-mode:hover {
     background: rgba(0, 0, 0, 0.05);
 }
